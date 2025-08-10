@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "254821797176",
+    "project_id": "allobaby-a14cd",
+    "storage_bucket": "allobaby-a14cd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254821797176:android:8add1001f4ec55701445cd",
+        "android_client_info": {
+          "package_name": "com.example.allobaay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBefh7kr8k1nKDaL5DeeXxM-WvAABGenEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
